@@ -9,7 +9,11 @@ Design of app:
 The app has two screens, one which is the main screen that has a logo of music and  three buttons, each button has a different functionality. The second screen is the detailed view screen which has three buttons a textview that will display the music users have input. 
 
 Main screen:
-The main screen has a imageview of a music sign logo, add to playlist button, next button and exit button. The add to playlist button allows users to add the selected music to be added onto their playlist. The next button is used 
+The main screen has a imageview of a music sign logo, add to playlist button, next button and exit button. The add to playlist button allows users to add the selected music to be added onto their playlist. The next button is used to take users to another page which is the dialog.xml that has 4 categories: song title, artist name, ratings and comments. Lastly the exit button is used to exit the app if users do not want to play/do a playlist. 
+
+Detailed view screen: 
+The detailed view screen has two buttons, one that displays everything on the playlist and ther other to calculate users ratings. The textview is used to display everything users have requested to see as previously typed in the dialog screen. Lastly the return button is used to go back in case users want to readd a different song/aritist/rating/comment to get different results. 
+
 Screenshots: 
 ![HAW1-2025 (4) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_06_19 13_47_27](https://github.com/user-attachments/assets/b0c436b0-5b55-4d1b-bd1d-51a45a37ff24)
 ![HAW1-2025 (4) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_06_19 13_47_36](https://github.com/user-attachments/assets/359d7037-6c9d-4abb-8b6b-547b3086e9eb)
